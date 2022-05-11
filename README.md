@@ -1,7 +1,8 @@
-#[RPG Inventory ](https://nrobert-dev.github.io/typescript-rpg-inventory/)
+## Basic RPG Inventory
 
-![Behold, image of inventory](./public/img_1.png)
+![Behold, inventory image](./public/img_1.png)
 
+[Go to the RPG Inventory ](https://nrobert-dev.github.io/typescript-rpg-inventory/)
 
 I'm a heavy RPG fan. I was looking into Typescript and decided to test out
 some features of the language by implementing a simple inventory management UI.
