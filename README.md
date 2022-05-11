@@ -1,10 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Basic RPG Inventory
 
-A basic learning project to make usage of Typescript in combination with React.
+![Tux, the Linux mascot](./public/img_1.png)
 
-## Features
+###[RPG Inventory ](https://nrobert-dev.github.io/typescript-rpg-inventory/)
+
+I'm a heavy RPG fan. I was looking into Typescript and decided to test out
+some features of the language by implementing a simple inventory management UI.
+
+## Implemented Features
 
 * Basic RPG Inventory look
 * Equipabble items with stats
