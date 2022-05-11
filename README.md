@@ -1,8 +1,7 @@
-## Basic RPG Inventory
+#[RPG Inventory ](https://nrobert-dev.github.io/typescript-rpg-inventory/)
 
-![Tux, the Linux mascot](./public/img_1.png)
+![Behold, image of inventory](./public/img_1.png)
 
-###[RPG Inventory ](https://nrobert-dev.github.io/typescript-rpg-inventory/)
 
 I'm a heavy RPG fan. I was looking into Typescript and decided to test out
 some features of the language by implementing a simple inventory management UI.
