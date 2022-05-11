@@ -2,7 +2,7 @@
   "name": "ts-app-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nrobert-dev.github.io/rpg-inventory",
+  "homepage": "https://nrobert-dev.github.io/typescript-rpg-inventory",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
