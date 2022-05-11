@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/rpg-inventory/static/css/main.4fcd9d23.chunk.css",
-    "main.js": "/rpg-inventory/static/js/main.2e0bd940.chunk.js",
-    "main.js.map": "/rpg-inventory/static/js/main.2e0bd940.chunk.js.map",
-    "runtime-main.js": "/rpg-inventory/static/js/runtime-main.3186b746.js",
-    "runtime-main.js.map": "/rpg-inventory/static/js/runtime-main.3186b746.js.map",
-    "static/js/2.a00cd5a8.chunk.js": "/rpg-inventory/static/js/2.a00cd5a8.chunk.js",
-    "static/js/2.a00cd5a8.chunk.js.map": "/rpg-inventory/static/js/2.a00cd5a8.chunk.js.map",
-    "index.html": "/rpg-inventory/index.html",
-    "precache-manifest.cd126832c65129f1ff912daf580dccd6.js": "/rpg-inventory/precache-manifest.cd126832c65129f1ff912daf580dccd6.js",
-    "service-worker.js": "/rpg-inventory/service-worker.js",
-    "static/css/main.4fcd9d23.chunk.css.map": "/rpg-inventory/static/css/main.4fcd9d23.chunk.css.map",
-    "static/js/2.a00cd5a8.chunk.js.LICENSE.txt": "/rpg-inventory/static/js/2.a00cd5a8.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/rpg-inventory/static/media/background.599449a2.jpg",
-    "static/media/fireball-red-2.png": "/rpg-inventory/static/media/fireball-red-2.6b920596.png",
-    "static/media/fireball-sky-2.png": "/rpg-inventory/static/media/fireball-sky-2.edc46fe7.png",
-    "static/media/heal-royal-1.png": "/rpg-inventory/static/media/heal-royal-1.618517c7.png",
-    "static/media/human.png": "/rpg-inventory/static/media/human.ea84d0fd.png",
-    "static/media/main.png": "/rpg-inventory/static/media/main.66992238.png"
+    "main.css": "/typescript-rpg-inventory/static/css/main.3386aae1.chunk.css",
+    "main.js": "/typescript-rpg-inventory/static/js/main.18a72f9b.chunk.js",
+    "main.js.map": "/typescript-rpg-inventory/static/js/main.18a72f9b.chunk.js.map",
+    "runtime-main.js": "/typescript-rpg-inventory/static/js/runtime-main.664b8b66.js",
+    "runtime-main.js.map": "/typescript-rpg-inventory/static/js/runtime-main.664b8b66.js.map",
+    "static/js/2.a00cd5a8.chunk.js": "/typescript-rpg-inventory/static/js/2.a00cd5a8.chunk.js",
+    "static/js/2.a00cd5a8.chunk.js.map": "/typescript-rpg-inventory/static/js/2.a00cd5a8.chunk.js.map",
+    "index.html": "/typescript-rpg-inventory/index.html",
+    "precache-manifest.ccd825c2b21dc8e9f32def056bab0437.js": "/typescript-rpg-inventory/precache-manifest.ccd825c2b21dc8e9f32def056bab0437.js",
+    "service-worker.js": "/typescript-rpg-inventory/service-worker.js",
+    "static/css/main.3386aae1.chunk.css.map": "/typescript-rpg-inventory/static/css/main.3386aae1.chunk.css.map",
+    "static/js/2.a00cd5a8.chunk.js.LICENSE.txt": "/typescript-rpg-inventory/static/js/2.a00cd5a8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/typescript-rpg-inventory/static/media/background.599449a2.jpg",
+    "static/media/fireball-red-2.png": "/typescript-rpg-inventory/static/media/fireball-red-2.6b920596.png",
+    "static/media/fireball-sky-2.png": "/typescript-rpg-inventory/static/media/fireball-sky-2.edc46fe7.png",
+    "static/media/heal-royal-1.png": "/typescript-rpg-inventory/static/media/heal-royal-1.618517c7.png",
+    "static/media/human.png": "/typescript-rpg-inventory/static/media/human.ea84d0fd.png",
+    "static/media/main.png": "/typescript-rpg-inventory/static/media/main.66992238.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3186b746.js",
+    "static/js/runtime-main.664b8b66.js",
     "static/js/2.a00cd5a8.chunk.js",
-    "static/css/main.4fcd9d23.chunk.css",
-    "static/js/main.2e0bd940.chunk.js"
+    "static/css/main.3386aae1.chunk.css",
+    "static/js/main.18a72f9b.chunk.js"
   ]
 }
